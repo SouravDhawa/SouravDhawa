@@ -14,7 +14,7 @@
 - 📫 How to reach me **souravdhawa610@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yeYjTuzJPR7jqaTC5BpZG0jmOlJ4N3SL/view?usp=sharing](https://drive.google.com/file/d/1yeYjTuzJPR7jqaTC5BpZG0jmOlJ4N3SL/view?usp=sharing)<br>My portfolio 
-link https://souravdhawaportfolio.netlify.app/
+link https://souravportfolio1.netlify.app/
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
