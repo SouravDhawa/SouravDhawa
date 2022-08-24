@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend development coerce.**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA,JavaScript,MY_SQL,Spring Boot**
 
 - 📫 How to reach me **souravdhawa610@gmail.com**
 
